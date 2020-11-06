@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T23:11:05.189Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="0F1YDL5OY_wMNDmMmONn" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T23:12:21.143Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="McLSIXX5XtyHdwDeB_HR" version="13.9.2" type="github">
   <diagram id="YPPOztvhntC4p48ojjDi" name="Page-1">
     <mxGraphModel dx="975" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xIkmYsw43qUoyMVWB1ey-13" value="Save the study facts in&lt;br&gt;redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="935" width="160" height="60" as="geometry" />
+          <mxGeometry x="120" y="920" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIkmYsw43qUoyMVWB1ey-14" value="Train the NLP Model&lt;br&gt;(BERT, GPT-2/3)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="935" width="160" height="60" as="geometry" />
+          <mxGeometry x="440" y="920" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIkmYsw43qUoyMVWB1ey-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" edge="1" parent="1" source="xIkmYsw43qUoyMVWB1ey-16" target="xIkmYsw43qUoyMVWB1ey-12">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="760" y="200" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIkmYsw43qUoyMVWB1ey-46" value="redis&lt;br&gt;(facts)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1060" width="160" height="60" as="geometry" />
+          <mxGeometry x="120" y="1050" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
